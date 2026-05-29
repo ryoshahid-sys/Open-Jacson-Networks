@@ -17,11 +17,16 @@ Visual components and Python
 
 
 ## Experiment:
+<img width="759" height="486" alt="image" src="https://github.com/user-attachments/assets/91f028a7-26cc-4202-a96f-105e4759f50d" />
 
 
 ## Program
+<img width="751" height="656" alt="{81614DE6-D02F-4DE4-8351-DF818788CDB7}" src="https://github.com/user-attachments/assets/6fbe4214-9299-46d7-b10c-0959ca9c9f05" />
 
 
 ## Output
+<img width="611" height="382" alt="{D59F4F14-9201-4654-AB68-771D6B0DBA88}" src="https://github.com/user-attachments/assets/83b5dfdf-eb8a-427a-8f81-5ea7923d07b5" />
 
 ## Result
+Thus, the program has been executed successfully and the required parameters have been calculated as per the given
+conditions.
